@@ -1,4 +1,8 @@
 # PrepWise: AI-Powered Study Planner 🚀
+<img width="1836" height="908" alt="Screenshot 2026-04-17 180654" src="https://github.com/user-attachments/assets/8ce702be-0896-4024-8f13-70360737f62d" />
+<img width="987" height="682" alt="Screenshot 2026-04-17 171858" src="https://github.com/user-attachments/assets/6e014e87-bff9-4b88-b704-c38ca7214b9a" />
+<img width="1377" height="862" alt="image" src="https://github.com/user-attachments/assets/7583369b-c0d2-470e-826e-115a2b0cfb6c" />
+
 
 **PrepWise** is an intelligent, full-stack study planning application designed to help students and professionals optimize their learning schedules. By leveraging the power of AI, PrepWise transforms generic study goals into highly detailed, day-by-day actionable plans, ensuring you stay organized and focused on your academic or professional journey.
 
